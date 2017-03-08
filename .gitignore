@@ -1,2 +1,5 @@
 /out
 *.jar
+/.repl*
+node_modules/*
+*.js
